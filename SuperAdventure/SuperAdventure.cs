@@ -23,6 +23,8 @@ namespace SuperAdventure
             lblGold.Text = _player.Gold.ToString();
             lblExperience.Text = _player.ExperiencePoints.ToString();
             lblLevel.Text = _player.Level.ToString();
+
+            Location location = new Location(1, "Home", "This is your house.");
         }
 
         private void label1_Click(object sender, EventArgs e)
