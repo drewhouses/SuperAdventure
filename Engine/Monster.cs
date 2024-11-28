@@ -14,12 +14,10 @@ namespace Engine
         public int RewardExperiencePoints { get; set; }
         public int RewardGold { get; set; }
 
-        public Monster(int iD, string name, int maximumHitPoints, int currentHitPoints, int maximumDamage, int rewardExperiencePoints, int rewardGold)
+        public Monster(int iD, string name, int maximumHitPoints, int currentHitPoints, int maximumDamage, int rewardExperiencePoints, int rewardGold) : base(currentHitPoints, maximumHitPoints)
         {
             ID = iD;
             Name = name;
-            MaximumHitPoints = maximumHitPoints;
-            CurrentHitPoints = currentHitPoints;
             MaximumDamage = maximumDamage;
             RewardExperiencePoints = rewardExperiencePoints;
             RewardGold = rewardGold;

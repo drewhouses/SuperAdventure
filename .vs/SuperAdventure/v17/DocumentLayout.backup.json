@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\drewc\\source\\repos\\SuperAdventure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34745D89-CDA6-457D-A9B4-491F7511E6D9}|SuperAdventure\\SuperAdventure.csproj|c:\\users\\drewc\\source\\repos\\superadventure\\superadventure\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34745D89-CDA6-457D-A9B4-491F7511E6D9}|SuperAdventure\\SuperAdventure.csproj|solutionrelative:superadventure\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{797CF1EC-8763-4CB9-86BE-F24A60964962}|Engine\\Engine.csproj|c:\\users\\drewc\\source\\repos\\superadventure\\engine\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797CF1EC-8763-4CB9-86BE-F24A60964962}|Engine\\Engine.csproj|solutionrelative:engine\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797CF1EC-8763-4CB9-86BE-F24A60964962}|Engine\\Engine.csproj|c:\\users\\drewc\\source\\repos\\superadventure\\engine\\healingpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797CF1EC-8763-4CB9-86BE-F24A60964962}|Engine\\Engine.csproj|solutionrelative:engine\\healingpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797CF1EC-8763-4CB9-86BE-F24A60964962}|Engine\\Engine.csproj|c:\\users\\drewc\\source\\repos\\superadventure\\engine\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797CF1EC-8763-4CB9-86BE-F24A60964962}|Engine\\Engine.csproj|solutionrelative:engine\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +22,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SuperAdventure.cs",
-              "DocumentMoniker": "C:\\Users\\drewc\\source\\repos\\SuperAdventure\\SuperAdventure\\SuperAdventure.cs",
-              "RelativeDocumentMoniker": "SuperAdventure\\SuperAdventure.cs",
-              "ToolTip": "C:\\Users\\drewc\\source\\repos\\SuperAdventure\\SuperAdventure\\SuperAdventure.cs",
-              "RelativeToolTip": "SuperAdventure\\SuperAdventure.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\drewc\\source\\repos\\SuperAdventure\\Engine\\Weapon.cs",
+              "RelativeDocumentMoniker": "Engine\\Weapon.cs",
+              "ToolTip": "C:\\Users\\drewc\\source\\repos\\SuperAdventure\\Engine\\Weapon.cs",
+              "RelativeToolTip": "Engine\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T21:56:11.77Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-11-28T00:52:27.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HealingPotion.cs",
+              "DocumentMoniker": "C:\\Users\\drewc\\source\\repos\\SuperAdventure\\Engine\\HealingPotion.cs",
+              "RelativeDocumentMoniker": "Engine\\HealingPotion.cs",
+              "ToolTip": "C:\\Users\\drewc\\source\\repos\\SuperAdventure\\Engine\\HealingPotion.cs",
+              "RelativeToolTip": "Engine\\HealingPotion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:50:49.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\drewc\\source\\repos\\SuperAdventure\\Engine\\Item.cs",
+              "RelativeDocumentMoniker": "Engine\\Item.cs",
+              "ToolTip": "C:\\Users\\drewc\\source\\repos\\SuperAdventure\\Engine\\Item.cs",
+              "RelativeToolTip": "Engine\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:50:12.819Z",
               "EditorCaption": ""
             }
           ]

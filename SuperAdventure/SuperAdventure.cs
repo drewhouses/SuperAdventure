@@ -18,6 +18,7 @@ namespace SuperAdventure
         public SuperAdventure()
         {
             InitializeComponent();
+
             _player = new Player(10, 10, 20, 0, 1);
             lblHitPoints.Text = _player.CurrentHitPoints.ToString();
             lblGold.Text = _player.Gold.ToString();
